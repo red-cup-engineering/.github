@@ -8,6 +8,10 @@
 
 **A 561 Group organization.** Engineering: makes the actual components, their composition boundaries, build inputs, tests and demonstrations independently reproducible.
 
+## Fund code you can actually inspect
+
+We publish reusable software like the [digital-goods storefront and fulfillment components](https://github.com/red-cup-engineering/digital-goods-storefront-services-section). Look at the source and tests first. If the work delights you, [choose a one-time tip](https://buy.stripe.com/9B68wQ9HA50ub2Yen25EY04) ($5–$10,000, $250 suggested); or [sustain the Group monthly](https://buy.stripe.com/28E28s1b4gJcb2Y3Io5EY02). The legal Stripe merchant is emsenn. Contributions purchase no proprietary rights in the free software.
+
 The 561 Group is operated by Morgan Sennhauser. Its work moves from science to engineering to operations to public
 services, and each step has its own organization:
 
