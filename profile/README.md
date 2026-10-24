@@ -8,6 +8,8 @@
 
 **A 561 Group organization.** Engineering: makes the actual components, their composition boundaries, build inputs, tests and demonstrations independently reproducible.
 
+**Inspect a deployed Web system and its evidence.** The Group's [public site](https://561.group/) is built by the [original TUFTE/LivingWebServer application](https://github.com/red-cup-engineering/561.group). Its [October 24 production qualification](https://github.com/red-cup-engineering/561.group/actions/runs/40111447958) records source, Cloudflare release, real published routes and an independently fetched public observation artifact. This verifies that particular release and its checks—not a commercial customer engagement, complete accessibility certification or general search-ranking success.
+
 ## Fund code you can actually inspect
 
 We publish reusable software like the [digital-goods storefront and fulfillment components](https://github.com/red-cup-engineering/digital-goods-storefront-engineering-services-section). Look at the source and tests first. If the work delights you, [choose a one-time tip](https://buy.stripe.com/9B68wQ9HA50ub2Yen25EY04) ($5–$10,000, $250 suggested); or [sustain the Group monthly](https://buy.stripe.com/28E28s1b4gJcb2Y3Io5EY02). The legal Stripe merchant is emsenn. Contributions purchase no proprietary rights in the free software.
