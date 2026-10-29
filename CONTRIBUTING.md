@@ -1,5 +1,7 @@
 # Contributing service work
 
+Public reporters can use the short Bug or Feature forms without knowing any internal Work identifier. Maintainers can use the Task form for accepted bounded work. The qualified source-handoff mechanism documented below remains an opt-in, distinct from ordinary PR review.
+
 Continue the original issue, Work or pull request when it exists. Identify the implementing service, its proper repository, the real consumer, the required outcome and receiving owner. Preserve useful variants and unresolved obligations. Link exact source revisions and evidence; distinguish tests, source integration, publication, installation and actual useful operation. Report missing information and uncertain outcomes explicitly. Do not include credentials or private raw logs.
 
 GitHub messages are intake for the original service work. Filing an issue or pull request does not create an admitted Semioverse Work or Cell, assign an office, grant authority or establish acceptance. Use the service’s supported original receiving route.
